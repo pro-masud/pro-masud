@@ -15,4 +15,4 @@
 
 
 
-<a href="https://gitroll.io/profile/uAdnnfNQELWXqVExxXPepxI9ZLhl1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAdnnfNQELWXqVExxXPepxI9ZLhl1" alt="GitRoll Profile Badge"/></a>
+<a width="400px" href="https://gitroll.io/profile/uAdnnfNQELWXqVExxXPepxI9ZLhl1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAdnnfNQELWXqVExxXPepxI9ZLhl1" alt="GitRoll Profile Badge"/></a>
