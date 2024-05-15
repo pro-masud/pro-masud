@@ -12,7 +12,3 @@
 [![](https://visitcount.itsvg.in/api?id=pro-masud&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<a href="https://gitroll.io/profile/uAdnnfNQELWXqVExxXPepxI9ZLhl1" target="_blank"><img style="max-width: 400px" src="https://gitroll.io/api/badges/profiles/v1/uAdnnfNQELWXqVExxXPepxI9ZLhl1" alt="GitRoll Profile Badge"/></a>
