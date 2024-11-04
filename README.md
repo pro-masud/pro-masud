@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **pro-masud**, a passionate WordPress developer and web enthusiast! Welcome to my GitHub profile.
+I'm **Masud Rana**, a passionate Full Stack Developer with a focus on WordPress and web development! Welcome to my GitHub profile.
 
 ---
 
@@ -8,12 +8,12 @@ I'm **pro-masud**, a passionate WordPress developer and web enthusiast! Welcome 
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-%230A69DB.svg?style=for-the-badge&logo=elementor&logoColor=white)
@@ -21,6 +21,12 @@ I'm **pro-masud**, a passionate WordPress developer and web enthusiast! Welcome 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+---
+
+## 🚀 About Me
+
+I'm a Full Stack Developer passionate about building dynamic web applications using PHP, JavaScript, and HTML5. My expertise includes CSS3, Bootstrap, Express, React, jQuery, and WordPress with Elementor. I also specialize in MongoDB, MySQL, Node.js, and Git. I enjoy tackling complex challenges and creating seamless user experiences. Currently, I'm open to work opportunities in the tech industry.
 
 ---
 
