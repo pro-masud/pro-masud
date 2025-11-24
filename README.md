@@ -10,6 +10,7 @@ I'm **Masud Rana**, a passionate Full Stack Developer with a focus on **WordPres
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![SCSS](https://img.shields.io/badge/SCSS-%23CD6799.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -27,9 +28,9 @@ I'm **Masud Rana**, a passionate Full Stack Developer with a focus on **WordPres
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer passionate about building **dynamic web applications** using **PHP, JavaScript, and HTML5**.  
+I'm a Full Stack Developer passionate about building **dynamic web applications** using **PHP & JavaScript**.  
 
-My expertise includes **WordPress, Gutenberg, Elementor, CSS3, Bootstrap, Express, React, jQuery, MongoDB, MySQL, Node.js, and Git**.  
+My expertise includes **WordPress, Gutenberg, Elementor, HTML5, SCSS, CSS3, Bootstrap, Express, React, jQuery, MongoDB, MySQL, Node.js, and Git**.  
 
 Currently, I am **learning and expanding my skills in MERN Stack** while continuing to build modern WordPress and Gutenberg projects. I enjoy tackling complex challenges and creating seamless user experiences. I am open to exciting opportunities in the tech industry.  
 
