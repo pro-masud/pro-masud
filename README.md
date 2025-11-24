@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Masud Rana**, a passionate Full Stack Developer with a focus on WordPress and web development! Welcome to my GitHub profile.
+I'm **Masud Rana**, a passionate Full Stack Developer with a focus on **WordPress, Gutenberg, and MERN Stack**! Welcome to my GitHub profile.
 
 ---
 
@@ -16,6 +16,7 @@ I'm **Masud Rana**, a passionate Full Stack Developer with a focus on WordPress 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Gutenberg](https://img.shields.io/badge/Gutenberg-%23F04C23.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-%230A69DB.svg?style=for-the-badge&logo=elementor&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -26,7 +27,11 @@ I'm **Masud Rana**, a passionate Full Stack Developer with a focus on WordPress 
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer passionate about building dynamic web applications using PHP, JavaScript, and HTML5. My expertise includes CSS3, Bootstrap, Express, React, jQuery, and WordPress with Elementor. I also specialize in MongoDB, MySQL, Node.js, and Git. I enjoy tackling complex challenges and creating seamless user experiences. Currently, I'm open to work opportunities in the tech industry.
+I'm a Full Stack Developer passionate about building **dynamic web applications** using **PHP, JavaScript, and HTML5**.  
+
+My expertise includes **WordPress, Gutenberg, Elementor, CSS3, Bootstrap, Express, React, jQuery, MongoDB, MySQL, Node.js, and Git**.  
+
+Currently, I am **learning and expanding my skills in MERN Stack** while continuing to build modern WordPress and Gutenberg projects. I enjoy tackling complex challenges and creating seamless user experiences. I am open to exciting opportunities in the tech industry.  
 
 ---
 
