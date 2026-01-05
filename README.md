@@ -36,14 +36,8 @@ Currently, I am **learning and expanding my skills in MERN Stack** while continu
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pro-masud&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pro-masud&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-masud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=pro-masud&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=pro-masud&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
